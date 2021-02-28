@@ -1,4 +1,5 @@
-# VRLE (Node.js/Socket.io/WebRTC/WebVR)
+# VRLE (Virtual Reality Learning Environment)
+Node.js/Socket.io/WebRTC/WebVR
 
 My machine:
 MacOS version 10.14.6
